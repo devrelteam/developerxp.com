@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>DeveloperXP</h1>
+<p>Developer experience observations for learning new APIs and SDKs.</p>
+
+
